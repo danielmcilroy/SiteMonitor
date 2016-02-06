@@ -1,0 +1,15 @@
+{
+  "name": "sitemonitor",
+  "version": "1.0.0",
+  "description": "A node application to monitor restricted sites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^2.1.0",
+    "request": "^2.69.0"
+  }
+}
